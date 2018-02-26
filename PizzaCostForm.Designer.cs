@@ -53,6 +53,7 @@
             this.btnCalculateCost.TabIndex = 1;
             this.btnCalculateCost.Text = "Calculate";
             this.btnCalculateCost.UseVisualStyleBackColor = true;
+            this.btnCalculateCost.Click += new System.EventHandler(this.btnCalculateCost_Click);
             // 
             // txtDiameterOfPizza
             // 
@@ -85,7 +86,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(630, 381);
+            this.BackColor = System.Drawing.Color.Brown;
+            this.ClientSize = new System.Drawing.Size(560, 316);
             this.Controls.Add(this.lblPizzaCost);
             this.Controls.Add(this.lblDeclareCost);
             this.Controls.Add(this.txtDiameterOfPizza);
