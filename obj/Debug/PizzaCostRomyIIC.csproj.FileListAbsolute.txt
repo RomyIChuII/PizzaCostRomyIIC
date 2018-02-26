@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\PizzaCostRomyIIC\PizzaCostRomyIIC\PizzaCostRomyIIC\bin\Debug\PizzaCostRomyIIC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\PizzaCostRomyIIC\PizzaCostRomyIIC\PizzaCostRomyIIC\bin\Debug\PizzaCostRomyIIC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\PizzaCostRomyIIC\PizzaCostRomyIIC\PizzaCostRomyIIC\bin\Debug\PizzaCostRomyIIC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\PizzaCostRomyIIC\PizzaCostRomyIIC\PizzaCostRomyIIC\obj\Debug\PizzaCostRomyIIC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\PizzaCostRomyIIC\PizzaCostRomyIIC\PizzaCostRomyIIC\obj\Debug\PizzaCostRomyIIC.frmPizzaCost.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\PizzaCostRomyIIC\PizzaCostRomyIIC\PizzaCostRomyIIC\obj\Debug\PizzaCostRomyIIC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\PizzaCostRomyIIC\PizzaCostRomyIIC\PizzaCostRomyIIC\obj\Debug\PizzaCostRomyIIC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\PizzaCostRomyIIC\PizzaCostRomyIIC\PizzaCostRomyIIC\obj\Debug\PizzaCostRomyIIC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\PizzaCostRomyIIC\PizzaCostRomyIIC\PizzaCostRomyIIC\obj\Debug\PizzaCostRomyIIC.pdb

@@ -33,8 +33,8 @@ namespace PizzaCostRomyIIC
             //Assigning HST as a Constant.
             const Double HST = 1.13;
 
-            //Calculating The pizza cost.
-            lblPizzaCost.Text = Convert.ToString((0.75 + 0.99 + 0.5 * inputDiameter) * HST);
+            //Subtotal equation.
+            Double subtotal = (0.75 + 0.99 + 0.5 * inputDiameter);
         }
     }
 }
