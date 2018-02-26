@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PizzaCostRomyIIC
 {
-    public partial class Form1 : Form
+    public partial class frmPizzaCost : Form
     {
-        public Form1()
+        public frmPizzaCost()
         {
             InitializeComponent();
         }
